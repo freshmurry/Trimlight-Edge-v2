@@ -1,0 +1,1 @@
+{"$schema":"https://developers.cloudflare.com/schemas/wrangler.jsonc","ai":{"binding":"AI"},"compatibility_date":"2026-11-26","kv_namespaces":[{"binding":"TRIMLIGHT_KV","id":"50fc5b1c303f40f9b24611957710da6b"}],"main":"index.js","name":"trimlight-edge-v2","vars":{"TRIMLIGHT_BASE_URL":"https://trimlight.ledhue.com/trimlight"},"workers_dev":true}
